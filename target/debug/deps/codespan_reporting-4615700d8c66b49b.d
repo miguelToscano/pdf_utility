@@ -1,0 +1,11 @@
+/Users/migue/Documents/pdf_utility/target/debug/deps/codespan_reporting-4615700d8c66b49b.rmeta: /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs
+
+/Users/migue/Documents/pdf_utility/target/debug/deps/codespan_reporting-4615700d8c66b49b.d: /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs
+
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/lib.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/diagnostic.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/files.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/config.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/renderer.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/codespan-reporting-0.11.1/src/term/views.rs:

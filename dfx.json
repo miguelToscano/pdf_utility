@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "dfx": "0.12.1",
+    "canisters": {
+      "pdf": {
+        "build": "node build.js pdf",
+        "type": "custom",
+        "package": "pdf",
+        "candid": "candid/pdf.did",
+        "wasm": "target/wasm32-unknown-unknown/release/pdf-opt.wasm"
+      }
+    },
+    "defaults": {
+      "build": {
+        "packtool": "",
+        "args": ""
+      }
+    },
+    "networks": {
+      "local": {
+        "bind": "127.0.0.1:4000",
+        "type": "ephemeral"
+      }
+    }
+  }

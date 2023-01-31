@@ -1,0 +1,13 @@
+/Users/migue/Documents/pdf_utility/target/debug/deps/quote-356d118f300c8368.rmeta: /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/Users/migue/Documents/pdf_utility/target/debug/deps/libquote-356d118f300c8368.rlib: /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/Users/migue/Documents/pdf_utility/target/debug/deps/quote-356d118f300c8368.d: /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs:
+/Users/migue/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs:
