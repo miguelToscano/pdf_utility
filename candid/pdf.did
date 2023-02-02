@@ -1,1 +1,2 @@
-service : { name : () -> (text) query }
+type Result = variant { Ok; Err };
+service : { generate_pdf : () -> (Result); name : () -> (text) query }
